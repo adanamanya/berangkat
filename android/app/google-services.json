@@ -1,0 +1,104 @@
+{
+  "project_info": {
+    "project_number": "1039746704253",
+    "firebase_url": "https://travelokadbjkt.firebaseio.com",
+    "project_id": "travelokadbjkt",
+    "storage_bucket": "travelokadbjkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039746704253:android:42e2bee69d25e9ec",
+        "android_client_info": {
+          "package_name": "com.berangkatbeta"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039746704253-19p68kfbchdplr6ep1349u6of2sfq7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_hQ4IFf24_vh7x2IX-gSXo7LDmr-0hI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039746704253:android:a0b4895d1eb23feb",
+        "android_client_info": {
+          "package_name": "com.rnfirebasestarter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039746704253-19p68kfbchdplr6ep1349u6of2sfq7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_hQ4IFf24_vh7x2IX-gSXo7LDmr-0hI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1039746704253:android:23cb40c5cd81e466",
+        "android_client_info": {
+          "package_name": "com.brangkat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1039746704253-19p68kfbchdplr6ep1349u6of2sfq7ok.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAR_hQ4IFf24_vh7x2IX-gSXo7LDmr-0hI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

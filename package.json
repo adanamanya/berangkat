@@ -1,0 +1,83 @@
+{
+  "name": "brangkat",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "babel-preset-react-native-stage-0": "^1.0.1",
+    "eslint": "^4.13.1",
+    "eslint-plugin-react": "^7.5.1",
+    "jest-expo": "^21.0.2",
+    "react-test-renderer": "16.0.0-alpha.12"
+  },
+  "scripts": {
+    "start": "react-native start",
+    "android": "react-native run-android",
+    "ios": "react-native run-ios",
+    "test": "node node_modules/jest/bin/jest.js --watch"
+  },
+  "rnpm": {
+    "assets": [
+      "./assets/fonts/"
+    ]
+  },
+  "jest": {
+    "preset": "jest-expo"
+  },
+  "dependencies": {
+    "@expo/vector-icons": "^5.2.0",
+    "axios": "^0.16.2",
+    "crypto": "^1.0.1",
+    "crypto-js": "^3.1.9-1",
+    "fast-html-parser": "^1.0.1",
+    "fbjs": "^0.8.16",
+    "firebase": "^4.5.2",
+    "http": "0.0.0",
+    "local-reverse-geocoder": "^0.4.0",
+    "native-base": "^2.3.0",
+    "query-string": "^5.0.1",
+    "react": "16.0.0-alpha.12",
+    "react-dom": "^15.6.1",
+    "react-native": "^0.48.4",
+    "react-native-awesome-alerts": "^1.0.3",
+    "react-native-back-android": "^3.1.0",
+    "react-native-blur": "^3.2.0",
+    "react-native-button": "^1.8.2",
+    "react-native-country-picker-modal": "^0.3.0",
+    "react-native-css": "^2.1.2",
+    "react-native-deck-swiper": "^1.4.2",
+    "react-native-double-click": "^1.0.3",
+    "react-native-drawer": "^2.3.0",
+    "react-native-fast-image": "^1.0.0",
+    "react-native-firebase": "^3.0.6",
+    "react-native-form": "^2.1.2",
+    "react-native-geocoder": "^0.5.0",
+    "react-native-gravatar": "^1.0.2",
+    "react-native-hide-with-keyboard": "^0.1.2",
+    "react-native-html-parser": "0.0.5",
+    "react-native-htmlview": "^0.12.0",
+    "react-native-image-progress": "^1.0.1",
+    "react-native-linear-gradient": "^2.3.0",
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-local-storage": "^1.5.2",
+    "react-native-looped-carousel": "^0.1.7",
+    "react-native-modal-datetime-picker": "^4.13.0",
+    "react-native-modalbox": "^1.4.2",
+    "react-native-parallax-header": "^1.0.5",
+    "react-native-parallax-scroll-view": "^0.20.1",
+    "react-native-progress": "^3.4.0",
+    "react-native-progress-bar": "^0.1.2",
+    "react-native-router-flux": "^3.39.1",
+    "react-native-search-box": "0.0.9",
+    "react-native-search-filter": "^0.1.2",
+    "react-native-simple-gauge": "^0.1.5",
+    "react-native-snap-carousel": "^3.2.3",
+    "react-native-spinkit": "^1.1.1",
+    "react-native-star-rating": "^1.0.8",
+    "react-native-storage": "^0.2.2",
+    "react-native-swipe-cards": "^0.1.0",
+    "react-native-tab-view": "0.0.70",
+    "react-native-textinput-effects": "^0.3.1",
+    "react-native-vector-icons": "^4.4.2",
+    "request": "^2.83.0"
+  }
+}
